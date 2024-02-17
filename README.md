@@ -13,6 +13,4 @@ Hi! I'm Ariel Leyva, a CS junior student at ITCR, Costa Rica. Interested in web 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hart-venus&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hart-venus&icon=6&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
