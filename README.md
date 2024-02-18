@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Ariel Leyva, a CS junior student at ITCR, Costa Rica. Interested in web dev, <br>Image and text analysis using AI and software.
+Hi! I'm Ariel Leyva, a CS junior student at ITCR, Costa Rica. Interested in web development, <br>Image and text analysis using AI and software.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muscle.millenium) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariel-leyva-595099277) 
